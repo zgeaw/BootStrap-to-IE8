@@ -5,7 +5,7 @@
 
 1、调用用法，在head中加入ie9以下兼容代码
 
-#<!--[if lt IE 9]><script src="html5shiv.min.js"></script><link rel="stylesheet" href="ie8.css"><![endif]-->
+<#!--[if lt IE 9]><script src="html5shiv.min.js"></script><link rel="stylesheet" href="ie8.css"><![endif]-->
 
 2、文件说明
 html5shiv.min.js（让IE8兼容HTML5标签,H5标签可以放心使用）
